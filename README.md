@@ -68,3 +68,18 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+### Vercel
+https://hosting-pi.vercel.app
+
+### Dependencies 
+
+Create react app (npx create-react-app <Your react app name>)
+Install bootstrap (npm install react-bootstrap bootstrap)
+Install react-hook (npm install react-hook-form)
+Install react-router-dom (npm install react-router-dom)
+Install react-icons (npm install react-icons)
+To Run (npm start)
+  
+
+  
+ 
