@@ -4,271 +4,271 @@
             "Title": "Java Programming",
             "Author": "Y. Daniel Liang",
             "Subject": "Computer Programming",
-            "Publish_Date": "01-Jul-2018"
+            "Publish_Date": "01-07-2018"
         },
         {
             "Title": "Java Programming",
             "Author": "Herbert Schildt",
             "Subject": "Computer Programming",
-            "Publish_Date": "01-May-2016"
+            "Publish_Date": "01-05-2016"
         },
         {
             "Title": "Java Programming",
             "Author": "Kathy Sierra, Bert Bates",
             "Subject": "Computer Programming",
-            "Publish_Date": "01-Mar-2019"
+            "Publish_Date": "01-03-2019"
         },
         {
             "Title": "Full Stack Development",
             "Author": "Frank Zammetti",
             "Subject": "Web Development",
-            "Publish_Date": "01-Sep-2020"
+            "Publish_Date": "01-09-2020"
         },
         {
             "Title": "Full Stack Development",
             "Author": "Juha Hinkula",
             "Subject": "Web Development",
-            "Publish_Date": "01-Nov-2018"
+            "Publish_Date": "01-11-2018"
         },
         {
             "Title": "Full Stack Development",
             "Author": "David Choi",
             "Subject": "Web Development",
-            "Publish_Date": "01-Apr-2017"
+            "Publish_Date": "01-04-2017"
         },
         {
             "Title": "Full Stack Development",
             "Author": "Sebastian Eschweiler",
             "Subject": "Web Development",
-            "Publish_Date": "01-Feb-2021"
+            "Publish_Date": "01-02-2021"
         },
         {
             "Title": "Full Stack Development",
             "Author": "Samuel Dauzon",
             "Subject": "Web Development",
-            "Publish_Date": "01-Jul-2019"
+            "Publish_Date": "01-07-2019"
         },
         {
             "Title": "Full Stack Development",
             "Author": "Anthony Gore",
             "Subject": "Web Development",
-            "Publish_Date": "01-May-2020"
+            "Publish_Date": "01-05-2020"
         },
         {
             "Title": "Full Stack Development",
             "Author": "Brad Dayley",
             "Subject": "Web Development",
-            "Publish_Date": "01-Feb-2018"
+            "Publish_Date": "01-02-2018"
         },
         {
             "Title": "Full Stack Development",
             "Author": "Shama Hoque",
             "Subject": "Web Development",
-            "Publish_Date": "01-Nov-2019"
+            "Publish_Date": "01-11-2019"
         },
         {
             "Title": "Full Stack Development",
             "Author": "Chris Aquino",
             "Subject": "Web Development",
-            "Publish_Date": "01-Dec-2020"
+            "Publish_Date": "01-12-2020"
         },
         {
             "Title": "Full Stack Development",
             "Author": "Ethan Brown",
             "Subject": "Web Development",
-            "Publish_Date": "01-Sep-2017"
+            "Publish_Date": "01-09-2017"
         },
         {
             "Title": "Full Stack Development",
             "Author": "Michael L. Scott",
             "Subject": "Web Development",
-            "Publish_Date": "01-Jan-2022"
+            "Publish_Date": "01-01-2022"
         },
         {
             "Title": "Machine Learning",
             "Author": "Pedro Domingos",
             "Subject": "Machine Learning",
-            "Publish_Date": "01-Aug-2016"
+            "Publish_Date": "01-08-2016"
         },
         {
             "Title": "Machine Learning",
             "Author": "Andriy Burkov",
             "Subject": "Machine Learning",
-            "Publish_Date": "01-Oct-2019"
+            "Publish_Date": "01-10-2019"
         },
         {
             "Title": "Machine Learning",
             "Author": "Sebastian Raschka, Vahid Mirjalili",
             "Subject": "Machine Learning",
-            "Publish_Date": "01-Jan-2018"
+            "Publish_Date": "01-01-2018"
         },
         {
             "Title": "AI",
             "Author": "Aurélien Géron",
             "Subject": "Artificial Intelligence",
-            "Publish_Date": "01-Jan-2022"
+            "Publish_Date": "01-01-2022"
         },
         {
             "Title": "AI",
             "Author": "Prateek Joshi",
             "Subject": "Artificial Intelligence",
-            "Publish_Date": "01-Feb-2022"
+            "Publish_Date": "01-02-2022"
         },
         {
             "Title": "AI",
             "Author": "Jeff Heaton",
             "Subject": "Artificial Intelligence",
-            "Publish_Date": "01-Mar-2022"
+            "Publish_Date": "01-03-2022"
         },
         {
             "Title": "AI",
             "Author": "Stuart Russell, Peter Norvig",
             "Subject": "Artificial Intelligence",
-            "Publish_Date": "01-Apr-2022"
+            "Publish_Date": "01-04-2022"
         },
         {
             "Title": "Big Data Analytics",
             "Author": "Kim H. Pries, Robert Dunnigan",
             "Subject": "Big Data Analytics",
-            "Publish_Date": "01-May-2022"
+            "Publish_Date": "01-05-2022"
         },
         {
             "Title": "Big Data Analytics",
             "Author": "Subhashini Chellappan, V. Lakshmi",
             "Subject": "Big Data Analytics",
-            "Publish_Date": "01-Jun-2022"
+            "Publish_Date": "01-06-2022"
         },
         {
             "Title": "Big Data Analytics",
-            "Author": " V. Lakshmi",
+            "Author": "V. Lakshmi",
             "Subject": "Big Data Analytics",
-            "Publish_Date": "01-Jul-2022"
+            "Publish_Date": "01-07-2022"
         },
         {
             "Title": "Data Science",
             "Author": "Hadley Wickham",
             "Subject": "Data Science",
-            "Publish_Date": "01-Aug-2022"
+            "Publish_Date": "01-08-2022"
         },
         {
             "Title": "Data Science",
             "Author": "Jake VanderPlas",
             "Subject": "Data Science",
-            "Publish_Date": "01-Sep-2022"
+            "Publish_Date": "01-09-2022"
         },
         {
             "Title": "Data Science",
             "Author": "Wes McKinney",
             "Subject": "Data Science",
-            "Publish_Date": "01-Oct-2022"
+            "Publish_Date": "01-10-2022"
         },
         {
             "Title": "Data Science",
             "Author": "Rachel Schutt",
             "Subject": "Data Science",
-            "Publish_Date": "01-Nov-2022"
+            "Publish_Date": "01-11-2022"
         },
         {
             "Title": "Dev Ops",
             "Author": "Gene Kim",
             "Subject": "Dev Ops",
-            "Publish_Date": "01-Dec-2022"
+            "Publish_Date": "01-12-2022"
         },
         {
             "Title": "Dev Ops",
             "Author": "Jez Humble",
             "Subject": "Dev Ops",
-            "Publish_Date": "01-Jan-2023"
+            "Publish_Date": "01-01-2023"
         },
         {
             "Title": "Dev Ops",
             "Author": "Nicole Forsgren",
             "Subject": "Dev Ops",
-            "Publish_Date": "01-Feb-2023"
+            "Publish_Date": "01-02-2023"
         },
         {
             "Title": "Dev Ops",
             "Author": "Paul Duvall",
             "Subject": "Dev Ops",
-            "Publish_Date": "01-Mar-2023"
+            "Publish_Date": "01-03-2023"
         },
         {
             "Title": "Dev Ops",
             "Author": "John Willis",
             "Subject": "Dev Ops",
-            "Publish_Date": "01-Apr-2023"
+            "Publish_Date": "01-04-2023"
         },
         {
             "Title": "SAP",
             "Author": "Michael Missbach",
             "Subject": "SAP",
-            "Publish_Date": "16-April-2023"
+            "Publish_Date": "01-01-2012"
         },
         {
             "Title": "SAP",
             "Author": "Michaela Schäfer-Wienrich",
             "Subject": "SAP",
-            "Publish_Date": "16-April-2023"
+            "Publish_Date": "01-02-2012"
         },
         {
             "Title": "SAP",
             "Author": "Justin Valley",
             "Subject": "SAP",
-            "Publish_Date": "16-April-2023"
+            "Publish_Date": "01-03-2012"
         },
         {
             "Title": "Blockchain",
             "Author": "Andreas Antonopoulos",
             "Subject": "Blockchain Development",
-            "Publish_Date": "16-April-2023"
+            "Publish_Date": "01-04-2012"
         },
         {
             "Title": "Blockchain",
             "Author": "Don Tapscott",
             "Subject": "Blockchain Development",
-            "Publish_Date": "16-April-2023"
+            "Publish_Date": "10-02-2014"
         },
         {
             "Title": "Blockchain",
             "Author": "William Mougayar",
             "Subject": "Blockchain Development",
-            "Publish_Date": "16-April-2023"
+            "Publish_Date": "19-03-2014"
         },
         {
             "Title": "IOT",
             "Author": "Erik Brynjolfsson",
             "Subject": "Internet Of Things",
-            "Publish_Date": "16-April-2023"
+            "Publish_Date": "07-04-2014"
         },
         {
             "Title": "IOT",
             "Author": "Andrew McAfee",
             "Subject": "Internet Of Things",
-            "Publish_Date": "16-April-2023"
+            "Publish_Date": "14-06-2014"
         },
         {
             "Title": "IOT",
             "Author": "Kevin Ashton",
             "Subject": "Internet Of Things",
-            "Publish_Date": "16-April-2023"
+            "Publish_Date": "11-08-2014"
         },
         {
             "Title": "Cloud Computing",
             "Author": "Thomas Erl",
             "Subject": "Cloud Computing",
-            "Publish_Date": "16-April-2023"
+            "Publish_Date": "18-10-2014"
         },
         {
             "Title": "Cloud Computing",
             "Author": "Scott Guthrie",
             "Subject": "Cloud Computing",
-            "Publish_Date": "16-April-2023"
+            "Publish_Date": "15-12-2014"
         },
         {
             "Title": "Assembly level language",
             "Author": "Paul Carter",
             "Subject": "Assembly level language",
-            "Publish_Date": "16-April-2023"
+            "Publish_Date": "27-11-2014"
         }
     ]
 }
